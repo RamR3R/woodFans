@@ -1,6 +1,6 @@
 # Wood Fans - Where Comfort Meets Craftsmanship
 
-![Green Paradise Logo](./src/components/Navbar/NavbarImages/Logo.svg)
+![Green Paradise Logo](./wood-fans-frontend/src/components/Navbar/NavbarImages/Logo.svg)
 
 ## Table of Contents
 
@@ -8,7 +8,7 @@
 2. [Demo](#demo)
 3. [Features](#features)
 4. [Screenshots](#screenshots)
-5. [Contributors](#authors)
+5. [About](#About)
 
 ## Tech Tools Used
 
@@ -46,20 +46,17 @@ Screenshots of the Home page on different devices are given below.
 
 - Home Page
 <div>
-<img src="./public/screenshots/homepage.png"/>
-  
+<img src="./wood-fans-frontend/public/screenshots/homepage.png"/>
+
 </div>
 
-- [Login](./public/screenshots/login.png)
-- [Product Page](./public/screenshots/productPage.png)
-- [Product Details](./public/screenshots/productDetails.png)
-- [Cart Page](./public/screenshots/cartPage.png)
-- [Address Page](./public/screenshots/detailsPage.png)
-- [Payment Page](./public/screenshots/payment.png)
+- [Login](./wood-fans-frontend/public/screenshots/login.png)
+- [Product Page](./wood-fans-frontend/public/screenshots/productPage.png)
+- [Product Details](./wood-fans-frontend/public/screenshots/productDetails.png)
+- [Cart Page](./wood-fans-frontend/public/screenshots/cartPage.png)
+- [Address Page](./wood-fans-frontend/public/screenshots/detailsPage.png)
+- [Payment Page](./wood-fans-frontend/public/screenshots/payment.png)
 
-## Contributors
+## About
 
-- Ashutosh Verma : [LinkedIn](https://www.linkedin.com/in/ashutosh-verma-6420b4272/) [Github](https://github.com/1ashutoshverma/)
-- Divyanshu Rawat : [LinkedIn]() [Github]()
-- Shubham Deshmukh : [LinkedIn]() [Github]()
-- Shivam Pathak : [LinkedIn]() [Github]()
+- Ramsundar Sivakumar : [LinkedIn](https://www.linkedin.com/in/ramR3R/) [Github](https://github.com/ramR3R/)
